@@ -58,6 +58,7 @@ class PersonInfo {
     get start_date() {
         return this._start_date;
     }
+
     set start_date ( start_date ) {
         this._start_date = start_date;
     }

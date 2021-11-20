@@ -1,7 +1,7 @@
 body {
   margin: 0;
   height: 100%;
-  background-color: rgb(110, 103, 103);
+  background-color: rgb(206, 192, 192);
 }
 
 .header {
@@ -197,7 +197,6 @@ select {
     justify-content: space-between;
     margin-bottom: 20px;
   }
-
   .submitButton {
     margin: 0;
   }
